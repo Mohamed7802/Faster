@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "317318925899",
+    "firebase_url": "https://faster-f44e4.firebaseio.com",
+    "project_id": "faster-f44e4",
+    "storage_bucket": "faster-f44e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317318925899:android:464e756559dc3821",
+        "android_client_info": {
+          "package_name": "com.demo7802.faster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317318925899-elb9drhm7s05lio7p1cia6rrradqcudl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.demo7802.faster",
+            "certificate_hash": "168ef4cca5deadb861fa86c43d304322660dc3ad"
+          }
+        },
+        {
+          "client_id": "317318925899-8aasnfrnolu9d9suhuispqcshal7ltb7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJXYbhZU35WQLD90GWGWjGPFDXGLrl3tw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317318925899-8aasnfrnolu9d9suhuispqcshal7ltb7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
